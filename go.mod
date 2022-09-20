@@ -18,8 +18,8 @@ go 1.14
 
 require (
 	github.com/fatih/color v1.13.0
-	github.com/jedib0t/go-pretty/v6 v6.3.3
+	github.com/jedib0t/go-pretty/v6 v6.3.8
 	github.com/rodaine/table v1.0.1
-	gopkg.in/launchdarkly/go-sdk-common.v2 v2.5.0
+	gopkg.in/launchdarkly/go-sdk-common.v2 v2.5.1
 	gopkg.in/launchdarkly/go-server-sdk.v5 v5.9.0
 )

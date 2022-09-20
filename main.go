@@ -12,10 +12,10 @@ import (
 )
 
 // Set sdkKey to your LaunchDarkly SDK key.
-const sdkKey = "sdk-fe492bc2-e3fe-4cfc-9d81-66358f24cdca"
+const sdkKey = ""
 
 // Set featureFlagKey to the feature flag key you want to evaluate.
-const featureFlagKey = "cloudland-feature"
+const featureFlagKey = "devops-camp-feature"
 
 // steffen-test-boolean-flag flips the first user example-user-1 at 12% -> perfect
 
